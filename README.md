@@ -10,5 +10,8 @@ A game launcher for roblox og revival Kornet, this is used to join a game,
  its also recommended otherwise u cant play games with it
 
 # Kornet-Studio Downloads
-to download this, you would need .NET desktop Runtime. 
-All though, this is actually in Work in Progress So the launcher could cause a issue unfortun.
+to download this (READ BELOW)
+
+<img width="1024" height="297" alt="STUDIO-12-13-2025" src="https://github.com/user-attachments/assets/2b07f260-f91b-496b-8c60-60e6fbb69099" />
+
+https://github.com/suprimeballeryt-dev/Old-Roblox-Revival-https-kornet.lat/blob/main/README.md
