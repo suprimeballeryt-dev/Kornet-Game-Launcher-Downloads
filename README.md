@@ -1,3 +1,7 @@
+
+
+<img width="1024" height="324" alt="KoRNET-12-13-2025" src="https://github.com/user-attachments/assets/2d105bc7-60b3-4ebe-847b-99a577f164dd" />
+
 # Kornet-Game-Launcher-Downloads
 A game launcher for roblox og revival Kornet, this is used to join a game,
 
